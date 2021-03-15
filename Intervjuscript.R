@@ -376,8 +376,7 @@ Manedslonn_kjonn%>%
   geom_text(aes(label = round(prosent_endring, digits = 1)), 
             position = position_dodge(width=1), hjust=-0.5) +
   scale_x_continuous(labels = comma)
-#### SEKTORFORDELTE DATA ####
-            
+
 
 
 
